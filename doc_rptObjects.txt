@@ -1,0 +1,923 @@
+#Report created on sunday, september 05, 2021
+
+Table: ODT                                                                                           Page: 1
+
+
+
+Properties
+
+AlternateBackShade:       100                         AlternateBackTheme        -1
+AlternateBackTint:        100                         BackShade:                100
+BackTint:                 100                         DatasheetForeTheme        -1
+
+DatasheetGridlinesTh      -1                          DateCreated:              9/5/2021 6:36:55 PM
+DefaultView:              2                           DisplayViewsOnShar        1
+FilterOnLoad:             False                       GUID:                     {guid {6E4D72FB-2B24-
+                                                                                4A36-A1AA-
+
+HideNewField:             False                       LastUpdated:              9/5/2021 8:35:29 PM
+NameMap:                  Long binary data            OrderByOn:                False
+OrderByOnLoad:            True                        Orientation:              Left-to-Right
+
+PublishToWeb:             1                           ReadOnlyWhenDisco         False
+RecordCount:              11473                       ThemeFontIndex:           -1
+TotalsRow:                False                       Updatable:                True
+
+
+
+
+Columns
+
+         Name                                                  Type                        Size
+         ID                                                    Double                                   8
+
+                  AggregateType:             -1
+                  AllowZeroLength:           False
+                  AppendOnly:                False
+
+                  Attributes:                Variable Length
+                  CollatingOrder:            3082
+                  ColumnHidden:              False
+
+                  ColumnOrder:               Default
+                  ColumnWidth:               Default
+                  CurrencyLCID:              0
+
+                  DataUpdatable:             False
+                  DecimalPlaces:             Auto
+                  DisplayControl:            Text Box
+                  Format:                    General Number
+
+                  GUID:                      {guid {ED26AABD-F414-401A-B54F-8C79B8B2A661}}
+                  OrdinalPosition:           0
+                  Required:                  True
+
+                  ResultType:                0
+                  SourceField:               ID
+                  SourceTable:               ODT
+
+                  TextAlign:                 General
+
+         DBC_ID                                                Double                                   8
+                  AggregateType:             -1
+
+                  AllowZeroLength:           False
+                  AppendOnly:                False
+                  Attributes:                Variable Length
+
+                  CollatingOrder:            3082
+                  ColumnHidden:              False
+                  ColumnOrder:               Default
+
+                  ColumnWidth:               Default
+                  CurrencyLCID:              0
+                  DataUpdatable:             False
+                  DecimalPlaces:             Auto
+
+                  DisplayControl:            Text Box
+                  Format:                    General Number
+                  GUID:                      {guid {0797484A-B2E5-477D-9056-015680002468}}
+
+                  OrdinalPosition:           1
+                  Required:                  False
+                  ResultType:                0
+                  SourceField:               DBC_ID
+
+                  SourceTable:               ODT
+                  TextAlign:                 General
+
+
+         Department_ID                                         Double                                   8
+                  AggregateType:             -1
+                  AllowZeroLength:           False
+
+                  AppendOnly:                False
+                  Attributes:                Variable Length
+                  CollatingOrder:            3082
+                  ColumnHidden:              False
+
+                  ColumnOrder:               Default
+                  ColumnWidth:               Default
+                  CurrencyLCID:              0
+
+                  DataUpdatable:             False
+                  DecimalPlaces:             Auto
+                  DisplayControl:            Text Box
+
+                  Format:                    General Number
+                  GUID:                      {guid {1B6F5A70-59D1-4D78-9BF3-5E6463817FA8}}
+                  OrdinalPosition:           2
+                  Required:                  False
+
+                  ResultType:                0
+                  SourceField:               Department_ID
+                  SourceTable:               ODT
+
+                  TextAlign:                 General
+
+         Departament_Label                                     Short Text                             255
+
+                  AggregateType:             -1
+                  AllowZeroLength:           True
+                  AppendOnly:                False
+                  Attributes:                Variable Length
+
+                  CollatingOrder:            3082
+                  ColumnHidden:              False
+                  ColumnOrder:               Default
+
+                  ColumnWidth:               Default
+                  CurrencyLCID:              0
+                  DataUpdatable:             False
+
+                  DisplayControl:            Text Box
+                  Format:                    @
+                  GUID:                      {guid {F7D1A409-18AD-4FF3-9155-F956AECF3478}}
+                  IMEMode:                   0
+
+                  IMESentenceMode:           3
+                  OrdinalPosition:           3
+                  Required:                  False
+
+                  ResultType:                0
+                  SourceField:               Departament_Label
+                  SourceTable:               ODT
+
+                  TextAlign:                 General
+                  UnicodeCompression:        False
+
+         Municipality_ID                                       Double                                   8
+                  AggregateType:             -1
+                  AllowZeroLength:           False
+
+                  AppendOnly:                False
+                  Attributes:                Variable Length
+                  CollatingOrder:            3082
+                  ColumnHidden:              False
+
+                  ColumnOrder:               Default
+                  ColumnWidth:               Default
+                  CurrencyLCID:              0
+
+                  DataUpdatable:             False
+                  DecimalPlaces:             Auto
+                  DisplayControl:            Text Box
+
+                  Format:                    General Number
+                  GUID:                      {guid {E7F4C284-A7EB-4289-B7AF-56994DE5133C}}
+                  OrdinalPosition:           4
+                  Required:                  False
+
+                  ResultType:                0
+                  SourceField:               Municipality_ID
+                  SourceTable:               ODT
+
+                  TextAlign:                 General
+
+         Municipality_Label                                    Short Text                             255
+
+                  AggregateType:             -1
+                  AllowZeroLength:           True
+                  AppendOnly:                False
+                  Attributes:                Variable Length
+
+                  CollatingOrder:            3082
+                  ColumnHidden:              False
+                  ColumnOrder:               Default
+
+                  ColumnWidth:               Default
+                  CurrencyLCID:              0
+                  DataUpdatable:             False
+
+                  DisplayControl:            Text Box
+                  Format:                    @
+                  GUID:                      {guid {26F7F3E7-6B3D-4893-B6FD-19B04652DC3A}}
+                  IMEMode:                   0
+
+                  IMESentenceMode:           3
+                  OrdinalPosition:           5
+                  Required:                  False
+
+                  ResultType:                0
+                  SourceField:               Municipality_Label
+                  SourceTable:               ODT
+
+                  TextAlign:                 General
+                  UnicodeCompression:        False
+
+         Site_ID                                               Double                                   8
+
+                  AggregateType:             -1
+                  AllowZeroLength:           False
+                  AppendOnly:                False
+
+                  Attributes:                Variable Length
+                  CollatingOrder:            3082
+                  ColumnHidden:              False
+
+                  ColumnOrder:               Default
+                  ColumnWidth:               Default
+
+
+                  CurrencyLCID:              0
+                  DataUpdatable:             False
+                  DecimalPlaces:             Auto
+
+                  DisplayControl:            Text Box
+                  Format:                    General Number
+                  GUID:                      {guid {9ACC672A-10C9-4564-BBE4-71C87726BEC3}}
+                  OrdinalPosition:           6
+
+                  Required:                  False
+                  ResultType:                0
+                  SourceField:               Site_ID
+
+                  SourceTable:               ODT
+                  TextAlign:                 General
+
+         Site_Label                                            Short Text                             255
+
+                  AggregateType:             -1
+                  AllowZeroLength:           True
+                  AppendOnly:                False
+
+                  Attributes:                Variable Length
+                  CollatingOrder:            3082
+                  ColumnHidden:              False
+
+                  ColumnOrder:               Default
+                  ColumnWidth:               Default
+                  CurrencyLCID:              0
+
+                  DataUpdatable:             False
+                  DisplayControl:            Text Box
+                  Format:                    @
+                  GUID:                      {guid {2B5061CD-6124-4570-9594-5D30399DCB6B}}
+
+                  IMEMode:                   0
+                  IMESentenceMode:           3
+                  OrdinalPosition:           7
+
+                  Required:                  False
+                  ResultType:                0
+                  SourceField:               Site_Label
+
+                  SourceTable:               ODT
+                  TextAlign:                 General
+                  UnicodeCompression:        False
+
+
+         Art_ID                                                Double                                   8
+                  AggregateType:             -1
+                  AllowZeroLength:           False
+
+                  AppendOnly:                False
+                  Attributes:                Variable Length
+                  CollatingOrder:            3082
+
+                  ColumnHidden:              False
+                  ColumnOrder:               Default
+                  ColumnWidth:               Default
+                  CurrencyLCID:              0
+
+                  DataUpdatable:             False
+                  DecimalPlaces:             Auto
+                  DisplayControl:            Text Box
+
+                  Format:                    General Number
+                  GUID:                      {guid {417EC7BD-4492-442C-AE7F-3ECABA54696C}}
+                  OrdinalPosition:           8
+
+                  Required:                  False
+                  ResultType:                0
+                  SourceField:               Art_ID
+                  SourceTable:               ODT
+                  TextAlign:                 General
+
+
+         Art_Label                                             Short Text                             255
+                  AggregateType:             -1
+                  AllowZeroLength:           True
+
+                  AppendOnly:                False
+                  Attributes:                Variable Length
+                  CollatingOrder:            3082
+
+                  ColumnHidden:              False
+                  ColumnOrder:               Default
+                  ColumnWidth:               Default
+
+                  CurrencyLCID:              0
+                  DataUpdatable:             False
+                  DisplayControl:            Text Box
+                  Format:                    @
+
+                  GUID:                      {guid {9FE6096B-9223-44AA-BFE8-39B668ADCD68}}
+                  IMEMode:                   0
+                  IMESentenceMode:           3
+
+                  OrdinalPosition:           9
+                  Required:                  False
+                  ResultType:                0
+
+                  SourceField:               Art_Label
+                  SourceTable:               ODT
+                  TextAlign:                 General
+                  UnicodeCompression:        False
+
+
+         Species_ID                                            Double                                   8
+                  AggregateType:             -1
+
+                  AllowZeroLength:           False
+                  AppendOnly:                False
+                  Attributes:                Variable Length
+
+                  CollatingOrder:            3082
+                  ColumnHidden:              False
+                  ColumnOrder:               Default
+                  ColumnWidth:               Default
+
+                  CurrencyLCID:              0
+                  DataUpdatable:             False
+                  DecimalPlaces:             Auto
+
+                  DisplayControl:            Text Box
+                  Format:                    General Number
+                  GUID:                      {guid {027BE972-40B7-463C-9040-D6FB98654D24}}
+
+                  OrdinalPosition:           10
+                  Required:                  False
+                  ResultType:                0
+                  SourceField:               Species_ID
+
+                  SourceTable:               ODT
+                  TextAlign:                 General
+
+
+         Species_Label                                         Short Text                             255
+                  AggregateType:             -1
+                  AllowZeroLength:           True
+
+                  AppendOnly:                False
+                  Attributes:                Variable Length
+                  CollatingOrder:            3082
+                  ColumnHidden:              False
+                  ColumnOrder:               Default
+
+                  ColumnWidth:               Default
+                  CurrencyLCID:              0
+                  DataUpdatable:             False
+                  DisplayControl:            Text Box
+
+                  Format:                    @
+                  GUID:                      {guid {0513CD8E-E55A-4A62-B855-A9AE4D96580B}}
+                  IMEMode:                   0
+
+                  IMESentenceMode:           3
+                  OrdinalPosition:           11
+                  Required:                  False
+                  ResultType:                0
+
+                  SourceField:               Species_Label
+                  SourceTable:               ODT
+                  TextAlign:                 General
+
+                  UnicodeCompression:        False
+
+         Year_ID                                               Double                                   8
+
+                  AggregateType:             -1
+                  AllowZeroLength:           False
+                  AppendOnly:                False
+
+                  Attributes:                Variable Length
+                  CollatingOrder:            3082
+                  ColumnHidden:              False
+                  ColumnOrder:               Default
+
+                  ColumnWidth:               Default
+                  CurrencyLCID:              0
+                  DataUpdatable:             False
+
+                  DecimalPlaces:             Auto
+                  DisplayControl:            Text Box
+                  Format:                    General Number
+
+                  GUID:                      {guid {DFD9DF5C-ABBE-4D0A-AF06-
+                  OrdinalPosition:           12
+                  Required:                  False
+                  ResultType:                0
+
+                  SourceField:               Year_ID
+                  SourceTable:               ODT
+                  TextAlign:                 General
+
+
+         Year_Label                                            Double                                   8
+                  AggregateType:             -1
+
+                  AllowZeroLength:           False
+                  AppendOnly:                False
+                  Attributes:                Variable Length
+                  CollatingOrder:            3082
+
+                  ColumnHidden:              False
+                  ColumnOrder:               Default
+                  ColumnWidth:               Default
+
+                  CurrencyLCID:              0
+                  DataUpdatable:             False
+                  DecimalPlaces:             Auto
+
+                  DisplayControl:            Text Box
+                  Format:                    General Number
+                  GUID:                      {guid {8E9F101A-798A-4E51-9763-2006D11E4E8F}}
+                  OrdinalPosition:           13
+                  Required:                  False
+
+                  ResultType:                0
+                  SourceField:               Year_Label
+                  SourceTable:               ODT
+                  TextAlign:                 General
+
+
+         Month_ID                                              Double                                   8
+                  AggregateType:             -1
+
+                  AllowZeroLength:           False
+                  AppendOnly:                False
+                  Attributes:                Variable Length
+
+                  CollatingOrder:            3082
+                  ColumnHidden:              False
+                  ColumnOrder:               Default
+                  ColumnWidth:               Default
+
+                  CurrencyLCID:              0
+                  DataUpdatable:             False
+                  DecimalPlaces:             Auto
+
+                  DisplayControl:            Text Box
+                  Format:                    General Number
+                  GUID:                      {guid {29CDCEF9-3479-4A50-8352-5729BD3CF12B}}
+
+                  OrdinalPosition:           14
+                  Required:                  False
+                  ResultType:                0
+                  SourceField:               Month_ID
+
+                  SourceTable:               ODT
+                  TextAlign:                 General
+
+
+         Month_Label1                                          Short Text                             255
+                  AggregateType:             -1
+                  AllowZeroLength:           True
+
+                  AppendOnly:                False
+                  Attributes:                Variable Length
+                  CollatingOrder:            3082
+                  ColumnHidden:              False
+
+                  ColumnOrder:               Default
+                  ColumnWidth:               Default
+                  CurrencyLCID:              0
+
+                  DataUpdatable:             False
+                  DisplayControl:            Text Box
+                  Format:                    @
+
+                  GUID:                      {guid {8CD6CBA6-FE4C-4FAA-8819-D62DE6B6B046}}
+                  IMEMode:                   0
+                  IMESentenceMode:           3
+                  OrdinalPosition:           15
+
+                  Required:                  False
+                  ResultType:                0
+                  SourceField:               Month_Label1
+
+                  SourceTable:               ODT
+                  TextAlign:                 General
+                  UnicodeCompression:        False
+
+
+         Month_Label2                                          Short Text                             255
+
+                  AggregateType:             -1
+                  AllowZeroLength:           True
+                  AppendOnly:                False
+
+                  Attributes:                Variable Length
+                  CollatingOrder:            3082
+                  ColumnHidden:              False
+                  ColumnOrder:               Default
+
+                  ColumnWidth:               Default
+                  CurrencyLCID:              0
+                  DataUpdatable:             False
+
+                  DisplayControl:            Text Box
+                  Format:                    @
+                  GUID:                      {guid {79B6DC57-E2C9-4662-9E28-D0CCC5ACFD87}}
+                  IMEMode:                   0
+
+                  IMESentenceMode:           3
+                  OrdinalPosition:           16
+                  Required:                  False
+
+                  ResultType:                0
+                  SourceField:               Month_Label2
+                  SourceTable:               ODT
+
+                  TextAlign:                 General
+                  UnicodeCompression:        False
+
+
+         Date_ID                                               Double                                   8
+                  AggregateType:             -1
+                  AllowZeroLength:           False
+                  AppendOnly:                False
+
+                  Attributes:                Variable Length
+                  CollatingOrder:            3082
+                  ColumnHidden:              False
+
+                  ColumnOrder:               Default
+                  ColumnWidth:               Default
+                  CurrencyLCID:              0
+
+                  DataUpdatable:             False
+                  DecimalPlaces:             Auto
+                  DisplayControl:            Text Box
+                  Format:                    General Number
+
+                  GUID:                      {guid {CED762F5-D685-4470-9964-734970F9E3DA}}
+                  OrdinalPosition:           17
+                  Required:                  False
+
+                  ResultType:                0
+                  SourceField:               Date_ID
+                  SourceTable:               ODT
+
+                  TextAlign:                 General
+
+         Date_Code                                             Short Text                             255
+                  AggregateType:             -1
+
+                  AllowZeroLength:           True
+                  AppendOnly:                False
+                  Attributes:                Variable Length
+
+                  CollatingOrder:            3082
+                  ColumnHidden:              False
+                  ColumnOrder:               Default
+
+                  ColumnWidth:               Default
+                  CurrencyLCID:              0
+                  DataUpdatable:             False
+                  DisplayControl:            Text Box
+                  Format:                    @
+
+                  GUID:                      {guid {DEAD09A0-0A38-4CC6-A97E-EECC405E7592}}
+                  IMEMode:                   0
+                  IMESentenceMode:           3
+                  OrdinalPosition:           18
+
+                  Required:                  False
+                  ResultType:                0
+                  SourceField:               Date_Code
+
+                  SourceTable:               ODT
+                  TextAlign:                 General
+                  UnicodeCompression:        False
+
+
+         Date_Label1                                           Short Text                             255
+                  AggregateType:             -1
+                  AllowZeroLength:           True
+
+                  AppendOnly:                False
+                  Attributes:                Variable Length
+                  CollatingOrder:            3082
+
+                  ColumnHidden:              False
+                  ColumnOrder:               Default
+                  ColumnWidth:               Default
+
+                  CurrencyLCID:              0
+                  DataUpdatable:             False
+                  DisplayControl:            Text Box
+                  Format:                    @
+
+                  GUID:                      {guid {04453C5D-E497-487A-AA7F-FD784A63689F}}
+                  IMEMode:                   0
+                  IMESentenceMode:           3
+
+                  OrdinalPosition:           19
+                  Required:                  False
+                  ResultType:                0
+
+                  SourceField:               Date_Label1
+                  SourceTable:               ODT
+                  TextAlign:                 General
+                  UnicodeCompression:        False
+
+
+         Date_Label2                                           Short Text                             255
+                  AggregateType:             -1
+
+                  AllowZeroLength:           True
+                  AppendOnly:                False
+                  Attributes:                Variable Length
+
+                  CollatingOrder:            3082
+                  ColumnHidden:              False
+                  ColumnOrder:               Default
+                  ColumnWidth:               Default
+
+                  CurrencyLCID:              0
+                  DataUpdatable:             False
+                  DisplayControl:            Text Box
+
+                  Format:                    @
+                  GUID:                      {guid {5D467F00-35AE-4404-9E39-ABE462716537}}
+                  IMEMode:                   0
+
+                  IMESentenceMode:           3
+                  OrdinalPosition:           20
+                  Required:                  False
+                  ResultType:                0
+                  SourceField:               Date_Label2
+
+                  SourceTable:               ODT
+                  TextAlign:                 General
+                  UnicodeCompression:        False
+
+
+         Estimate                                              Double                                   8
+                  AggregateType:             -1
+                  AllowZeroLength:           False
+
+                  AppendOnly:                False
+                  Attributes:                Variable Length
+                  CollatingOrder:            3082
+
+                  ColumnHidden:              False
+                  ColumnOrder:               Default
+                  ColumnWidth:               Default
+                  CurrencyLCID:              0
+
+                  DataUpdatable:             False
+                  DecimalPlaces:             Auto
+                  DisplayControl:            Text Box
+
+                  Format:                    General Number
+                  GUID:                      {guid {3FC0348A-BB4C-47F7-BD3E-AB2167DE3D08}}
+                  OrdinalPosition:           21
+
+                  Required:                  False
+                  ResultType:                0
+                  SourceField:               Estimate
+                  SourceTable:               ODT
+
+                  TextAlign:                 General
+
+         Lower_limit                                           Double                                   8
+
+                  AggregateType:             -1
+                  AllowZeroLength:           False
+                  AppendOnly:                False
+
+                  Attributes:                Variable Length
+                  CollatingOrder:            3082
+                  ColumnHidden:              False
+                  ColumnOrder:               Default
+
+                  ColumnWidth:               Default
+                  CurrencyLCID:              0
+                  DataUpdatable:             False
+
+                  DecimalPlaces:             Auto
+                  DisplayControl:            Text Box
+                  Format:                    General Number
+
+                  GUID:                      {guid {E7BB316E-D988-4BA4-8320-B80D92E38D1E}}
+                  OrdinalPosition:           22
+                  Required:                  False
+                  ResultType:                0
+
+                  SourceField:               Lower_limit
+                  SourceTable:               ODT
+                  TextAlign:                 General
+
+
+         Upper_limit                                           Double                                   8
+                  AggregateType:             -1
+
+                  AllowZeroLength:           False
+                  AppendOnly:                False
+                  Attributes:                Variable Length
+                  CollatingOrder:            3082
+                  ColumnHidden:              False
+
+                  ColumnOrder:               Default
+                  ColumnWidth:               Default
+                  CurrencyLCID:              0
+                  DataUpdatable:             False
+
+                  DecimalPlaces:             Auto
+                  DisplayControl:            Text Box
+                  Format:                    General Number
+
+                  GUID:                      {guid {F95957BF-3C71-44A9-90C9-70B6ABFED858}}
+                  OrdinalPosition:           23
+                  Required:                  False
+                  ResultType:                0
+
+                  SourceField:               Upper_limit
+                  SourceTable:               ODT
+                  TextAlign:                 General
+
+
+
+Table Indexes
+
+         Name                                     Number of
+
+         Art_ID                                   1
+                  Clustered:                 False
+                  DistinctCount:             16
+
+                  Foreign:                   False
+                  IgnoreNulls:               False
+                  Name:                      Art_ID
+
+                  Primary:                   False
+                  Required:                  False
+                  Unique:                    False
+
+                  Fields:
+                  Art_ID                     Ascending
+
+         Date_Code                                1
+                  Clustered:                 False
+                  DistinctCount:             46
+
+                  Foreign:                   False
+                  IgnoreNulls:               False
+                  Name:                      Date_Code
+
+                  Primary:                   False
+                  Required:                  False
+                  Unique:                    False
+
+                  Fields:
+                  Date_Code                  Ascending
+
+         Date_ID                                  1
+                  Clustered:                 False
+                  DistinctCount:             46
+
+                  Foreign:                   False
+                  IgnoreNulls:               False
+                  Name:                      Date_ID
+
+                  Primary:                   False
+                  Required:                  False
+                  Unique:                    False
+                  Fields:
+                  Date_ID                    Ascending
+         DBC_ID                                   1
+
+                  Clustered:                 False
+                  DistinctCount:             11473
+                  Foreign:                   False
+
+                  IgnoreNulls:               False
+                  Name:                      DBC_ID
+                  Primary:                   False
+
+                  Required:                  False
+                  Unique:                    False
+                  Fields:
+
+                  DBC_ID                     Ascending
+         Department_ID                            1
+
+                  Clustered:                 False
+                  DistinctCount:             2
+                  Foreign:                   False
+
+                  IgnoreNulls:               False
+                  Name:                      Department_ID
+                  Primary:                   False
+
+                  Required:                  False
+                  Unique:                    False
+                  Fields:
+
+                  Department_ID              Ascending
+         ID                                       1
+
+                  Clustered:                 False
+                  DistinctCount:             11473
+                  Foreign:                   False
+
+                  IgnoreNulls:               False
+                  Name:                      ID
+                  Primary:                   True
+
+                  Required:                  True
+                  Unique:                    True
+                  Fields:
+
+                  ID                         Ascending
+         Month_ID                                 1
+                  Clustered:                 False
+
+                  DistinctCount:             12
+                  Foreign:                   False
+                  IgnoreNulls:               False
+
+                  Name:                      Month_ID
+                  Primary:                   False
+                  Required:                  False
+
+                  Unique:                    False
+                  Fields:
+                  Month_ID                   Ascending
+
+         Municipality_ID                          1
+                  Clustered:                 False
+
+                  DistinctCount:             10
+                  Foreign:                   False
+                  IgnoreNulls:               False
+
+                  Name:                      Municipality_ID
+                  Primary:                   False
+                  Required:                  False
+                  Unique:                    False
+                  Fields:
+
+                  Municipality_ID            Ascending
+         Site_ID                                  1
+                  Clustered:                 False
+
+                  DistinctCount:             32
+                  Foreign:                   False
+                  IgnoreNulls:               False
+
+                  Name:                      Site_ID
+                  Primary:                   False
+                  Required:                  False
+
+                  Unique:                    False
+                  Fields:
+                  Site_ID                    Ascending
+
+         Species_ID                               1
+                  Clustered:                 False
+
+                  DistinctCount:             199
+                  Foreign:                   False
+                  IgnoreNulls:               False
+
+                  Name:                      Species_ID
+                  Primary:                   False
+                  Required:                  False
+
+                  Unique:                    False
+                  Fields:
+                  Species_ID                 Ascending
+
+         Year_ID                                  1
+                  Clustered:                 False
+
+                  DistinctCount:             8
+                  Foreign:                   False
+                  IgnoreNulls:               False
+
+                  Name:                      Year_ID
+                  Primary:                   False
+                  Required:                  False
+
+                  Unique:                    False
+                  Fields:
+                  Year_ID                    Ascending
+
+
+
+User Permissions
+
+         admin                      Delete, Read Permissions, Set Permissions, Change Owner,
+                                    Read Definition, Write Definition, Read Data, Insert Data,
+
+Group Permissions
+
+         Admins                     Delete, Read Permissions, Set Permissions, Change Owner,
+                                    Read Definition, Write Definition, Read Data, Insert Data,
+
+         Users                      Delete, Read Permissions, Set Permissions, Change Owner,
+                                    Read Definition, Write Definition, Read Data, Insert Data,
